@@ -1,0 +1,11 @@
+# AWS Configuration
+# Replace these values with your actual AWS credentials
+amazon.aws.accessKey=your-access-key-here
+amazon.aws.secretKey=your-secret-key-here
+amazon.dynamodb.endpoint=http://localhost:8000/
+
+# For local DynamoDB, use the endpoint above
+# For production AWS DynamoDB, comment out the endpoint and uncomment the region below
+# aws.region=us-west-2
+# aws.port=8000
+
