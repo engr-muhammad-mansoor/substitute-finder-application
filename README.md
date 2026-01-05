@@ -1,4 +1,4 @@
-# SubFinder Application
+# Substitute Finder Application
 
 A Spring Boot REST API application for managing sports game substitution requests. The application allows users to register and create substitution requests for games, storing data in AWS DynamoDB.
 
