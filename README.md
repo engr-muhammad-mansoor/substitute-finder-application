@@ -33,8 +33,8 @@ Before running this application, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd subfinder
+git clone https://github.com/engr-muhammad-mansoor/substitute-finder-application.git
+cd substitute-finder-application
 ```
 
 ### 2. Configure AWS Credentials
